@@ -1,1 +1,1 @@
-# Project1BandNameGenerator
+# Project 1: Band Name Generator
